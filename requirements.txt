@@ -1,0 +1,6 @@
+ultralytics
+numpy
+streamlit
+Pillow
+keras
+tensorflow
